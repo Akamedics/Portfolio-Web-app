@@ -25,7 +25,7 @@ export default function Footer() {
             </p>
 
             
-          </div>
+          </div> 
 
           {/* About Us */}
           <div>
